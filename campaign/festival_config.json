@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "campaign_id": 1,
   "start_date": "2026-03-03",
   "end_date": "2026-06-20",
@@ -7,5 +7,8 @@
   "images": [
     "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/eid1.webp",
     "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/eid2.webp"
+    https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/fruits_apple.webp
+https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/fruits_lychee.webp
+https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/fruits_orange.webp
   ]
 }
