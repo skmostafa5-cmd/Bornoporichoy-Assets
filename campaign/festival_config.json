@@ -1,11 +1,12 @@
 {
   "enabled": true,
-  "campaign_id": 1,
+  "campaign_id": 2,
   "start_date": "2026-03-03",
   "end_date": "2026-06-20",
   "title": "ঈদের শুভেচ্ছা 🌙",
   "images": [
     "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/eid1.webp",
     "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/eid2.webp"
+    https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/fruits_apple.webp
   ]
 }
