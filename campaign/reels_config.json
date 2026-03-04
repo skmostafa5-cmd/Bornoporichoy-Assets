@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 2,
+  "min_app_version": 11,
   "videos": [
     {
       "id": 1,
