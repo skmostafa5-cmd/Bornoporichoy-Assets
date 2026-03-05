@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "min_app_version": 17,
+  "min_app_version": 18,
 
   "profile": {
-    "name": "Bornoporichoy Kids",
+    "name": "Bornoporichoy Kid",
     "username": "@bornoporichoykids_admin",
     "profile_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/profile.png",
     "banner_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner.jpg",
