@@ -1,31 +1,44 @@
 {
   "enabled": true,
-  "min_app_version": 8,
+  "min_app_version": 19,
+
+  "app_settings": {
+    "reels_label": "Educational Video",
+    "show_profile": true,
+    "allow_download": true,
+    "show_like_button": true,
+    "show_save_button": true
+  },
 
   "profile": {
-    "name": "Bornoporichoy Kid",
+    "name": "Bornoporichoy Kids",
     "username": "@bornoporichoykids_admin",
     "profile_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/profile.png",
     "banner_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner.jpg",
     "description": "বাংলা বর্ণমালা, ছড়া এবং শিশুদের জন্য মজার শিক্ষামূলক ভিডিও।"
   },
 
+  "ads_control": {
+    "show_ads": true,
+    "ads_after_videos": 3
+  },
+
   "videos": [
     {
-      "id": 3,
+      "id": 1,
       "title": "অ - অজগর",
       "video_url": "https://www.w3schools.com/html/mov_bbb.mp4",
       "like_count": 100
     },
     {
       "id": 2,
-      "title": "আ - jony jony",
+      "title": "আ - Johnny Johnny",
       "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/veo4.mp4",
       "like_count": 100
-      },
+    },
     {
-      "id": 1,
-      "title": "আ - jony jony",
+      "id": 3,
+      "title": "চাঁদ মামা দূরে যাও",
       "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/chadmama.mp4",
       "like_count": 100
     }
