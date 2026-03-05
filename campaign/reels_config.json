@@ -3,7 +3,7 @@
   "min_app_version": 19,
 
   "app_settings": {
-    "reels_label": "Educational Video",
+    "reels_label": "Educational Videos",
     "show_profile": true,
     "allow_download": true,
     "show_like_button": true,
@@ -11,7 +11,7 @@
   },
 
   "profile": {
-    "name": "Bornoporichoy Kids",
+    "name": "Bornoporichoy Ki",
     "username": "@bornoporichoykids_admin",
     "profile_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/profile.png",
     "banner_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner.jpg",
