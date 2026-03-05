@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 16,
+  "min_app_version": 17,
 
   "profile": {
     "name": "Bornoporichoy Kids",
@@ -26,7 +26,7 @@
     {
       "id": 1,
       "title": "আ - jony jony",
-      "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/chadMama.mp4",
+      "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/chadmama.mp4",
       "like_count": 100
     }
   ]
