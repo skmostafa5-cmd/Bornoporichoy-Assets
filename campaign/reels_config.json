@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 19,
+  "min_app_version": 20,
 
   "app_settings": {
     "reels_label": "Educational Videos",
