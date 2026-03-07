@@ -1,52 +1,41 @@
 {
   "enabled": true,
-  "min_app_version": 21,
-
+  "min_app_version": 1,
   "app_settings": {
-    "reels_label": "Educational Videos",
+    "reels_label": "Reels",
     "show_profile": true,
     "allow_download": true,
     "show_like_button": true,
     "show_save_button": true
   },
-
   "profile": {
-    "name": "Bornoporichoy Admin",
-    "username": "@bornoporichoy_admin",
+    "name": "Bornoporichoy Ki",
+    "username": "bornoporichoyki",
     "profile_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/profile.png",
-    "banner_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner.jpg",
-    "description": "বাংলা বর্ণমালা, ছড়া এবং শিশুদের জন্য মজার শিক্ষামূল।"
+    "banner_image": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner.jpeg",
+    "description": "বাংলা বর্ণমালা, ছড়া এবং শিশুদের জন্য মজার শিক্ষামূলক ভিডিও।"
   },
-
-  "ads_control": {
-    "show_ads": true,
-    "ads_after_videos": 3
-  },
-
   "videos": [
     {
       "id": 1,
-      "title": "অ - অজগর",
-      "video_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/12.mp4",
-      "like_count": 100
+      "title": "আয় আয় চাঁদ মামা টিপ দিয়ে যা",
+      "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/chadmama.mp4",
+      "thumbnail": "থাম্বনেইল_ইমেজের_লিঙ্ক_এখানে.jpg",
+      "like_count": 120
     },
     {
       "id": 2,
-      "title": "আ - Johnny Johnny",
-      "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/veo4.mp4",
-      "like_count": 100
+      "title": "দোল দোল দুলুনি",
+      "video_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/21.mp4",
+      "thumbnail": "থাম্বনেইল_ইমেজের_লিঙ্ক_এখানে.jpg",
+      "like_count": 95
     },
     {
       "id": 3,
-      "title": "আ - Johnny Johnny",
-      "video_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/21.mp4",
-      "like_count": 100
-    },
-    {
-      "id": 4,
-      "title": "চাঁদ মামা দূরে যাও",
-      "video_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/chadmama.mp4",
-      "like_count": 100
+      "title": "হাট্টিমাটিম টিম",
+      "video_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/12.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/hatimatimtim.jpg",
+      "like_count": 150
     }
   ]
 }
