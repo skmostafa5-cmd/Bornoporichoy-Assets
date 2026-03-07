@@ -26,14 +26,14 @@
     {
       "id": 2,
       "title": "দোল দোল দুলুনি",
-      "video_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/21.mp4",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/21.mp4",
       "thumbnail": "থাম্বনেইল_ইমেজের_লিঙ্ক_এখানে.jpg",
       "like_count": 95
     },
     {
       "id": 3,
       "title": "হাট্টিমাটিম টিম",
-      "video_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/12.mp4",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/12.mp4",
       "thumbnail": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/hatimatimtim.jpg",
       "like_count": 150
     }
