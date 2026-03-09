@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 7,
+  "min_app_version": 8,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "title": "চলো আজকে মজা করে পড়াশোনা করি,",
-      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/cholo_sikhi.mp4",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/chotto_bondura.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sobaisikhi.jpg",
       "like_count": 0
     }
