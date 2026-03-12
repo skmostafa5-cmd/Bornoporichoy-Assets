@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 10,
+  "min_app_version": 11,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -17,21 +17,21 @@
   },
   "videos": [
     {
-      "id": 1,
+      "id": 7,
       "title": "আয় আয় চাঁদ মামা টিপ দিয়ে যা",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/ay_ay_chad.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/AyAychadmama.jpg",
       "like_count": 0
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "দোল দোল দুলুনি",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/doldol.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/doldolduluni.jpg",
       "like_count": 0
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "হাট্টিমাটিম টিম",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/TimTim.mp4",
       "thumbnail": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/hatimatimtim.jpg",
@@ -45,14 +45,21 @@
       "like_count": 0
     },
     {
-      "id": 5,
+      "id": 3,
       "title": "খোকন গেল মাছ ধরতে,ক্ষীর নদীর কূলে,",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/mach_dhorte.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/khoka.thumnal.jpg",
       "like_count": 0
     },
     {
-      "id": 6,
+      "id": 2,
+      "title": "ঘুম পাড়ানি মাসি পিসি,,",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/ghum_parani.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/masi_pishi.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 1,
       "title": "চলো আজকে মজা করে পড়াশোনা করি,",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/chotto_bondura.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sobaisikhi.jpg",
