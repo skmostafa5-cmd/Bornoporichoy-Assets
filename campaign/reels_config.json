@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 11,
+  "min_app_version": 12,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
