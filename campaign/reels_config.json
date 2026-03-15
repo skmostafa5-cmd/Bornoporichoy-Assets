@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 13,
+  "min_app_version": 14,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -19,7 +19,7 @@
     {
       "id": 9,
       "title": "আজ শিখি Family Relationship",
-      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/fath_ther.mp4",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/fa&mo_parents.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/father_mother.jpg",
       "like_count": 0
     },
