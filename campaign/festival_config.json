@@ -1,13 +1,13 @@
 {
-  "enabled": false,
-  "campaign_id": 6,
+  "enabled": true,
+  "campaign_id": 7,
   "start_date": "2020-03-05",
   "end_date": "2030-01-01",
   "title": "ফলের মজার দুনিয়া 🍎🍊",
   "subtitle": "রঙিন ফল চিনুন ও শিখুন মজার ছবির মাধ্যমে!",
   "button_text": "বন্ধুদের সাথে শেয়ার করুন",
   "images": [
-    "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/fruits_apple.webp",
-    "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/fruits_orange.webp"
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday1.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday2.jpg"
   ]
 }
