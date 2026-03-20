@@ -1,13 +1,19 @@
 {
-  "enabled": false,
-  "campaign_id": 7,
+  "enabled": true,
+  "campaign_id": 8,
   "start_date": "2020-03-05",
   "end_date": "2030-01-01",
-  "title": "ফলের মজার দুনিয়া 🍎🍊",
-  "subtitle": "রঙিন ফল চিনুন ও শিখুন মজার ছবির মাধ্যমে!",
+  "title": "💧 জল বাঁচাও, জীবন বাঁচাও ২০২৬",
+  "subtitle": "World Water Day উপলক্ষে ছবির মাধ্যমে শেখা!",
   "button_text": "বন্ধুদের সাথে শেয়ার করুন",
   "images": [
     "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday1.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday2.jpg"
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday2.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday3.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday4.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday5.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday6.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday7.jpg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday8.jpg"
   ]
 }
