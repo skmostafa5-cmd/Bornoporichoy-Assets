@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 15,
+  "min_app_version": 16,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -17,10 +17,10 @@
   },
   "videos": [
     {
-      "id": 10,
-      "title": "🎁সেটিংস → “সমস্যা জানান” থেকে যোগ দিন (অভিভাবকের সহায়তায়)",
-      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/1k.mp4",
-      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/1kd.jpeg",
+      "id": 0,
+      "title": "",
+      "video_url": "",
+      "thumbnail": "",
       "like_count": 0
     },
     {
