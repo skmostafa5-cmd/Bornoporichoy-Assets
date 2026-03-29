@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 14,
+  "min_app_version": 15,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -16,6 +16,13 @@
     "description": "বাংলা ও ইংরেজি বর্ণমালা, ছড়া ও গানের মাধ্যমে শিশুদের জন্য নিরাপদ ও আনন্দময় শিক্ষামূলক ভিডিও প্রদান করা হয়। প্রতিটি ভিডিও প্রকাশের আগে অ্যাডমিন দ্বারা পর্যালোচনা করা হয় যাতে শিশুদের জন্য উপযোগী কনটেন্ট নিশ্চিত করা যায় এবং কোনো ধরনের বিজ্ঞাপন দেখানো হয় না। অভিভাবক চাইলে সেটিংস থেকে ভিডিও ফিচার বন্ধ করতে পারবেন। কোনো পরামর্শ থাকলে ফিডব্যাকের মাধ্যমে আমাদের জানাতে পারেন।।"
   },
   "videos": [
+    {
+      "id": 10,
+      "title": "🎁সেটিংস → “সমস্যা জানান” থেকে যোগ দিন (অভিভাবকের সহায়তায়)",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/1k.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/1kd.jpeg",
+      "like_count": 0
+    },
     {
       "id": 9,
       "title": "আজ শিখি Family Relationship",
