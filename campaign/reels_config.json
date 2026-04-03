@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 19,
+  "min_app_version": 20,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -18,9 +18,9 @@
   "videos": [
     {
       "id": 10,
-      "title": "সেটিংস → “সমস্যা জানান” থেকে যোগ দিন (অভিভাবকের সহায়তায়)",
-      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/2kd.mp4",
-      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/2k.jpeg",
+      "title": "সকাল সকাল ওঠা – ভালো অভ্যাস",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/good_habit.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/good_habits.jpg",
       "like_count": 0
     },
     {
