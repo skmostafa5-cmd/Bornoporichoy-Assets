@@ -1,19 +1,20 @@
 {
-  "enabled": false,
-  "campaign_id": 10,
+  "enabled": true,
+  "campaign_id": 11,
   "start_date": "2020-03-05",
   "end_date": "2030-01-01",
-  "title": "💧 জল বাঁচাও, জীবন বাঁচাও",
-  "subtitle": "World Water Day উপলক্ষে ছবির মাধ্যমে শেখা!",
+  "title": "💚 বিশ্ব স্বাস্থ্য দিবস 📅 (৭ এপ্রিল)",
+  "subtitle": "ছবি দেখে শিখি সুস্থ থাকার ভালো অভ্যাস",
   "button_text": "বন্ধুদের সাথে শেয়ার করুন",
   "images": [
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday1.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday2.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday3.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday4.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday5.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday6.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday7.jpg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/waterday8.jpg"
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_1.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_2.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_3.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_4.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_5.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_6.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_7.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_8.png",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_9.png"
   ]
 }
