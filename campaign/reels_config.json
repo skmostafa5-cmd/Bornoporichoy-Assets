@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 22,
+  "min_app_version": 23,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -17,14 +17,14 @@
   },
   "videos": [
     {
-      "id": 11,
+      "id": 13,
       "title": ". The Wheels on the Bus (কিডস রাইম)",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/the_wheel.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/the_wheel.jpg",
       "like_count": 0
     },
     {
-      "id": 11,
+      "id": 12,
       "title": ". 🍎 খেলতে খেলতে K–R শেখা",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/K_R.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/K_R.jpg",
