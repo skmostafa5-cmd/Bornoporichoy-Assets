@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 29,
+  "min_app_version": 30,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -18,14 +18,14 @@
   "videos": [
     {
       "id": 15,
-      "title": " আজ আমাদের ছুটি | গরম গরম রুটি 🍞",
+      "title": " আমাদের ছোট নদী | Rabindranath Tagore",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Choto_nodi.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Choto_nodi.webp",
       "like_count": 0
     },
     {
       "id": 14,
-      "title": " আমাদের ছোট নদী | Rabindranath Tagore",
+      "title": " আজ আমাদের ছুটি | গরম গরম রুটি 🍞",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.webp",
       "like_count": 0
