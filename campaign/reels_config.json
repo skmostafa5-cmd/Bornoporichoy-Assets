@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 27,
+  "min_app_version": 28,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -18,35 +18,35 @@
   "videos": [
     {
       "id": 15,
-      "title": ". আজ আমাদের ছুটি | গরম গরম রুটি 🍞",
+      "title": " আজ আমাদের ছুটি | গরম গরম রুটি 🍞",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.webp",
       "like_count": 0
     },
     {
       "id": 14,
-      "title": ". আমাদের ছোট নদী | Rabindranath Tagore",
+      "title": " আমাদের ছোট নদী | Rabindranath Tagore",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.webp",
       "like_count": 0
     },
     {
       "id": 13,
-      "title": ". The Wheels on the Bus (কিডস রাইম)",
+      "title": " The Wheels on the Bus (কিডস রাইম)",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/the_wheel.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/the_wheel.jpg",
       "like_count": 0
     },
     {
       "id": 12,
-      "title": ". 🍎 খেলতে খেলতে K–R শেখা",
+      "title": " 🍎 খেলতে খেলতে K–R শেখা",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/K_R.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/K_R.jpg",
       "like_count": 0
     },
     {
       "id": 11,
-      "title": ". 🍎 খেলতে খেলতে A–J শেখা",
+      "title": " 🍎 খেলতে খেলতে A–J শেখা",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/a-j.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/a-j-image.jpg",
       "like_count": 0
