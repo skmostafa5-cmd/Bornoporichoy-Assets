@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 26,
+  "min_app_version": 27,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -16,6 +16,20 @@
     "description": "বাশিশুদের জন্য নিরাপদ ও আনন্দময় শিক্ষামূলক ভিডিও এখানে পাওয়া যাবে। প্রতিটি ভিডিও অ্যাডমিন দ্বারা যাচাইকৃত এবং শিশুবান্ধব। অভিভাবক চাইলে সেটিংস থেকে এই ফিচারটি নিয়ন্ত্রণ করতে পারবেন। যেকোনো পরামর্শের জন্য আমাদের ফিডব্যাক দিন।"
   },
   "videos": [
+    {
+      "id": 15,
+      "title": ". আজ আমাদের ছুটি | গরম গরম রুটি 🍞",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.webp",
+      "like_count": 0
+    },
+    {
+      "id": 14,
+      "title": ". আমাদের ছোট নদী | Rabindranath Tagore",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/Aj_chuti.webp",
+      "like_count": 0
+    },
     {
       "id": 13,
       "title": ". The Wheels on the Bus (কিডস রাইম)",
