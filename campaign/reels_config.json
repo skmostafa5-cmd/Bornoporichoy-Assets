@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 33,
+  "min_app_version": 34,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -16,6 +16,27 @@
     "description": "শিশুদের জন্য নিরাপদ ও আনন্দময় শিক্ষামূলক ভিডিও এখানে পাওয়া যাবে। প্রতিটি ভিডিও অ্যাডমিন দ্বারা যাচাইকৃত এবং শিশুবান্ধব। অভিভাবক চাইলে সেটিংস থেকে এই ফিচারটি নিয়ন্ত্রণ করতে পারবেন। যেকোনো পরামর্শের জন্য আমাদের ফিডব্যাক দিন।"
   },
   "videos": [
+    {
+      "id": 21,
+      "title": "সব সময় বাবা-মায়ের কথা শুনবো ❤️",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/valo_kaj.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/valo_kaj.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 20,
+      "title": "রাস্তা পার হবার আগে ভালো করে ডান দিক বা দিক দেখে নেব 🚦",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/rasta_par.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/rasta_par.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 19,
+      "title": "রোজ সকালে তাড়াতাড়ি ঘুম থেকে উঠবো ",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sokale_otha.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sokale_otha.jpg",
+      "like_count": 0
+    },
     {
       "id": 18,
       "title": "🐻 ভাল্লুক আর দুই বন্ধুর গল্প",
