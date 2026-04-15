@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 38,
+  "min_app_version": 39,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -18,14 +18,14 @@
   "videos": [
     {
       "id": 26,
-      "title": "খচোখ বাঁচাও, খেলতে যাও 👀",
+      "title": "চোখ বাঁচাও, খেলতে যাও 👀",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/phone_ghata.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/phone_ghata.jpeg",
       "like_count": 0
     },
     {
       "id": 25,
-      "title": "খসত্য বললে মন ভালো থাকে 🌈",
+      "title": "সত্য বললে মন ভালো থাকে 🌈",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sotto_bolbo.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sotto_bolbo.jpeg",
       "like_count": 0
