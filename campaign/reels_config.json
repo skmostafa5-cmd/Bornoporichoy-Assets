@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 37,
+  "min_app_version": 38,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -22,28 +22,28 @@
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/phone_ghata.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/phone_ghata.jpeg",
       "like_count": 0
-    },[
+    },
     {
       "id": 25,
       "title": "খসত্য বললে মন ভালো থাকে 🌈",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sotto_bolbo.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sotto_bolbo.jpeg",
       "like_count": 0
-    },[
+    },
     {
       "id": 24,
       "title": "পানি খাও, সুস্থ থাকো 💧",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/pani_khawa.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/pani_khawa.jpeg",
       "like_count": 0
-    },[
+    },
     {
       "id": 23,
       "title": "বই পড়া ভালো অভ্যাস 📚",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/book_pora.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/book_pora.jpeg",
       "like_count": 0
-    },[
+    },
     {
       "id": 22,
       "title": "খেলনা গুছিয়ে রাখো 🌟",
@@ -67,7 +67,7 @@
     },
     {
       "id": 19,
-      "title": "রোজ সকালে তাড়াতাড়ি ঘুম থেকে উঠবো ",
+      "title": "রোজ সকালে তাড়াতাড়ি ঘুম থেকে উঠবো",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sokale_otha.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/sokale_otha.jpg",
       "like_count": 0
@@ -109,21 +109,21 @@
     },
     {
       "id": 13,
-      "title": " The Wheels on the Bus (কিডস রাইম)",
+      "title": "The Wheels on the Bus (কিডস রাইম)",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/the_wheel.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/the_wheel.jpg",
       "like_count": 0
     },
     {
       "id": 12,
-      "title": " 🍎 খেলতে খেলতে K–R শেখা",
+      "title": "🍎 খেলতে খেলতে K–R শেখা",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/K_R.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/K_R.jpg",
       "like_count": 0
     },
     {
       "id": 11,
-      "title": " 🍎 খেলতে খেলতে A–J শেখা",
+      "title": "🍎 খেলতে খেলতে A–J শেখা",
       "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/a-j.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/a-j-image.jpg",
       "like_count": 0
