@@ -1,20 +1,17 @@
 {
-  "enabled": false,
+  "enabled": true,
   "campaign_id": 13,
   "start_date": "2020-03-05",
   "end_date": "2030-01-01",
-  "title": "💚 বিশ্ব স্বাস্থ্য দিবস (৭ এপ্রিল)",
-  "subtitle": "ছবি দেখে শিখি সুস্থ থাকার ভালো অভ্যাস",
+  "title": "💚",
+  "subtitle": "ছবি দেখে শিখি ভালো অভ্যাস",
   "button_text": "বন্ধুদের সাথে শেয়ার করুন",
   "images": [
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_1.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_2.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_3.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_4.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_5.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_6.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_7.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_8.png",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/health_9.png"
-  ]
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/1.jpeg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/2.jpeg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/3.jpeg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/4.jpeg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/5.jpeg",
+    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/6.jpeg"
+]
 }
