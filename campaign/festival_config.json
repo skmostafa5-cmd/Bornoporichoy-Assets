@@ -1,17 +1,60 @@
 {
-  "enabled": false,
-  "campaign_id": 14,
-  "start_date": "2020-03-05",
-  "end_date": "2030-01-01",
-  "title": "💚",
-  "subtitle": "ছবি দেখে শিখি ভালো অভ্যাস",
-  "button_text": "বন্ধুদের সাথে শেয়ার করুন",
-  "images": [
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/1.jpeg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/2.jpeg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/3.jpeg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/4.jpeg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/5.jpeg",
-    "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/6.jpeg"
-]
+  "enabled": true,
+  "campaign_id": 101,
+  "start_date": "2024-01-01",
+  "end_date": "2025-12-31",
+  "title": "উৎসব ও শিক্ষা গ্যালারি",
+  "subtitle": "নতুন কিছু শিখি আর আনন্দ করি ✨",
+  "button_text": "বন্ধুদের শেয়ার করো",
+  "banners": [
+    {
+      "image_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner1.jpg",
+      "title": "নতুন ছবি যোগ করা হয়েছে! 📸",
+      "action": "gallery_update"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner2.jpg",
+      "title": "লাকি ড্র-তে অংশ নাও 🎁",
+      "action": "lucky_draw"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner3.jpg",
+      "title": "আজকের শিক্ষামূলক টিপস 💡",
+      "action": "edu_tips"
+    }
+  ],
+  "categories": [
+    "Famous Personalities",
+    "National Days",
+    "School Events",
+    "Special Days",
+    "Tips & Learning"
+  ],
+  "gallery": [
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/1.jpeg",
+      "category": "Famous Personalities",
+      "title": "রবীন্দ্রনাথ ঠাকুর"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/2.jpeg",
+      "category": "National Days",
+      "title": "স্বাধীনতা দিবস"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/3.jpeg",
+      "category": "Tips & Learning",
+      "title": "পরিষ্কার থাকার নিয়ম"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/4.jpeg",
+      "category": "Special Days",
+      "title": "বিশ্ব পরিবেশ দিবস"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/5.jpeg",
+      "category": "School Events",
+      "title": "বার্ষিক ক্রীড়া প্রতিযোগিতা"
+    }
+  ]
 }
