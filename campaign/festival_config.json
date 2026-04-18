@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 103,
+  "campaign_id": 104,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -13,12 +13,12 @@
       "action": "gallery_update"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner2.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/banner.jpg",
       "title": "লাকি ড্র-তে অংশ নাও 🎁",
       "action": "lucky_draw"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner3.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/banner.jpg",
       "title": "আজকের শিক্ষামূলক টিপস 💡",
       "action": "edu_tips"
     }
