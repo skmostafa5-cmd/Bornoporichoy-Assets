@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 102,
+  "campaign_id": 103,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -8,7 +8,7 @@
   "button_text": "বন্ধুদের শেয়ার করো",
   "banners": [
     {
-      "image_url": "https://raw.githubusercontent.com/skmostafa5-cmd/Bornoporichoy-Assets/main/campaign/banner1.jpg",
+      "image_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/banner.jpg",
       "title": "নতুন ছবি যোগ করা হয়েছে! 📸",
       "action": "gallery_update"
     },
