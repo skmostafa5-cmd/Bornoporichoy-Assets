@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 107,
+  "campaign_id": 108,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -92,24 +92,24 @@
       "title": "ঈশ্বরচন্দ্র বিদ্যাসাগর"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/2.jpeg",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/national-days/Independenc_1.jpeg",
       "category": "National Days",
       "title": "স্বাধীনতা দিবস"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/3.jpeg",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/Child_writing.jpeg",
       "category": "Tips & Learning",
-      "title": "পরিষ্কার থাকার নিয়ম"
+      "title": "চেষ্টা করি"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/4.jpeg",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/special-days/Children_playing.jpeg",
       "category": "Special Days",
-      "title": "বিশ্ব পরিবেশ দিবস"
+      "title": "বশিশু দিবস"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/5.jpeg",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/school-events/Children_drawing.jpeg",
       "category": "School Events",
-      "title": "বার্ষিক ক্রীড়া প্রতিযোগিতা"
+      "title": "আঁকা প্রতিযোগিতা"
     }
   ]
 }
