@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 113,
+  "campaign_id": 114,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -31,6 +31,66 @@
     "Tips & Learning"
   ],
   "gallery": [
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_1.png",
+      "category": "Tips & Learning",
+      "title": "জল বাঁচাও"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_2.png",
+      "category": "Tips & Learning",
+      "title": "দাঁত পরিষ্কার করি 🦷"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_3.png",
+      "category": "Tips & Learning",
+      "title": "পড়াশোনার শক্তি"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_4.png",
+      "category": "Tips & Learning",
+      "title": "মায়ের ভালোবাসা"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_5.png",
+      "category": "Tips & Learning",
+      "title": "অ-তে অজগর"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_6.png",
+      "category": "Tips & Learning",
+      "title": "Body Parts 🧠"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_7.png",
+      "category": "Tips & Learning",
+      "title": "ভালো মানুষ হও"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_8.png",
+      "category": "Tips & Learning",
+      "title": "ভালোবাসা ভাগ করো"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_9.png",
+      "category": "Tips & Learning",
+      "title": "Body Parts 🧠"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_10.png.png",
+      "category": "Tips & Learning",
+      "title": "রঙিন শেখা"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_11.png",
+      "category": "Tips & Learning",
+      "title": "জ্ঞান বাড়াও"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_12.png",
+      "category": "Tips & Learning",
+      "title": "পরিষ্কার থাকা"
+    },
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/famous-personalities/Dr_Ambedkar_1.jpeg",
       "category": "Famous Personalities",
@@ -97,9 +157,9 @@
       "title": "স্বাধীনতা দিবস"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/Child_writing.jpeg",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_13.png",
       "category": "Tips & Learning",
-      "title": "চেষ্টা করি"
+      "title": "পড়াশোনার শক্তি"
     },
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/special-days/Children_playing.jpeg",
