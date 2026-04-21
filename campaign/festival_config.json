@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 112,
+  "campaign_id": 113,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -14,12 +14,12 @@
     },
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/lacky-drw/upcoming_lucky.png",
-      "title": "আবার আসছে ধামাকা লাকি ড্র! 🎊",
+      "title": " ",
       "action": "lucky_draw"
     },
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/lacky-drw/join_telegram.png",
-      "title": "জয়েন করুন সেটিং থেকে ✨",
+      "title": " ",
       "action": "edu_tips"
     }
   ],
