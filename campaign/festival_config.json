@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 114,
+  "campaign_id": 115,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -77,7 +77,7 @@
       "title": "Body Parts 🧠"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_10.png.png",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_10.png",
       "category": "Tips & Learning",
       "title": "রঙিন শেখা"
     },
@@ -159,17 +159,32 @@
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/Tips&earning/1_13.png",
       "category": "Tips & Learning",
-      "title": "পড়াশোনার শক্তি"
+      "title": "মজার শেখাি"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/special-days/Tagore_telling_stories_2.png",
+      "category": "Special Days",
+      "title": "শিশু দিবস"
     },
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/special-days/Children_playing.jpeg",
       "category": "Special Days",
-      "title": "বশিশু দিবস"
+      "title": "রবীন্দ্রনাথ ঠাকুর"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/special-days/soromic.png",
+      "category": "Special Days",
+      "title": "শ্রমিক দিবস"
     },
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/school-events/Children_drawing.jpeg",
       "category": "School Events",
       "title": "আঁকা প্রতিযোগিতা"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/school-events/teacher_day.png",
+      "category": "School Events",
+      "title": "শিক্ষক দিবস"
     }
   ]
 }
