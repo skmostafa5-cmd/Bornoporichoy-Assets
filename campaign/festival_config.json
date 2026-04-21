@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 109,
+  "campaign_id": 110,
   "start_date": "2024-01-01",
   "end_date": "2026-04-31",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -9,17 +9,17 @@
   "banners": [
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/lacky-drw/winer_1.png",
-      "title": "নতুন ছবি যোগ করা হয়েছে! 📸",
+      "title": "🎉 1K Downloads Lucky Winner 🎁",
       "action": "gallery_update"
     },
     {
-      "image_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/banner.jpg",
-      "title": "লাকি ড্র-তে অংশ নাও 🎁",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/lacky-drw/winer_2.png",
+      "title": "🌟 Tripura-এর ছোট্ট বাবু – Lucky Winner 🎉",
       "action": "lucky_draw"
     },
     {
-      "image_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/banner.jpg",
-      "title": "আজকের শিক্ষামূলক টিপস 💡",
+      "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/lacky-drw/winer_1.png",
+      "title": "Photo shared with permission",
       "action": "edu_tips"
     }
   ],
