@@ -1,0 +1,14 @@
+{
+  "name": "মাদ্রাসা দারুল উলুম",
+  "address": "কলকাতা, পশ্চিমবঙ্গ",
+  "coverPhoto": "https://example.com/cover.jpg",
+  "localPhotos": [
+    "https://example.com/photo1.jpg",
+    "https://example.com/photo2.jpg"
+  ],
+  "isVerified": true,
+  "donationInfo": "মাদ্রাসার উন্নয়নে আপনার দান সাদকায়ে জারিয়া হিসেবে কবুল হবে। বিকাশ: ০১৭xxxxxxxx",
+  "contactNumber": "+91xxxxxxxxxx",
+  "whatsappGroup": "https://chat.whatsapp.com/xxxxxx",
+  "description": "একটি আদর্শ দ্বীনি শিক্ষা প্রতিষ্ঠান।"
+}
