@@ -1,15 +1,15 @@
 {
-  "campaignId": 1,
+  "campaignId": 2,
   "madrasas": [
     {
       "id": 1,
       "name": "দারুল উলুম মাদ্রাসা",
       "address": "ঢাকা, বাংলাদেশ",
-      "coverPhoto": "https://example.com/images/cover1.jpg",
+      "coverPhoto": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png",
       "localPhotos": [
-        "https://example.com/images/photo1.jpg",
-        "https://example.com/images/photo2.jpg",
-        "https://example.com/images/photo3.jpg"
+        "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png",
+        "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png",
+        "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png"
       ],
       "isVerified": true,
       "donationInfo": "আমাদের মাদ্রাসায় সাহায্য পাঠাতে পারেন: বিকাশ (পার্সোনাল) - ০১৭XXXXXXXX, নগদ - ০১৯XXXXXXXX",
@@ -21,10 +21,10 @@
       "id": 2,
       "name": "আল-হিদায়াহ মাদ্রাসা",
       "address": "চট্টগ্রাম, বাংলাদেশ",
-      "coverPhoto": "https://example.com/images/cover2.jpg",
+      "coverPhoto": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png",
       "localPhotos": [
-        "https://example.com/images/img1.jpg",
-        "https://example.com/images/img2.jpg"
+        "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png",
+        "https://raw.githubusercontent.com/mintumostafa/Mintu/main/image/Notification_2.png"
       ],
       "isVerified": false,
       "donationInfo": "ব্যাংক একাউন্ট: ১২৩৪৫৬৭৮৯০, ইসলামী ব্যাংক।",
