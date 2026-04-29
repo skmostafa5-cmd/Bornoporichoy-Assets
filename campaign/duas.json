@@ -16,128 +16,92 @@
     {
       "id": "201",
       "categoryId": "2",
-      "title": { "bn": "ঘুম থেকে ওঠার দোয়া", "en": "Waking up", "hi": "सोने से जागने की दुआ" },
+      "title": { "bn": "ঘুম থেকে ওঠার দোয়া", "en": "Waking up", "hi": "सोने से जागने की दुआ", "ur": "نیند سے بیدار ہونے کی دعا" },
       "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-      "pronunciation": { "bn": "আলহামদু লিল্লাহিল্লাযী আহইয়ানা বা'দা মা আমাতানা ওয়া ইলাইহিন নুশূর", "en": "Alhamdu lillahilladhi ahyana ba'da ma amatana wa ilayhin-nushur" },
-      "meaning": { "bn": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাদের মৃত্যুর (ঘুমের) পর পুনরায় জীবিত করলেন এবং তাঁর দিকেই আমাদের ফিরে যেতে হবে।", "en": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection." },
+      "pronunciation": { "bn": "আলহামদু লিল্লাহিল্লাযী আহইয়ানা বা'দা মা আমাতানা ওয়া ইলাইহিন নুশূর", "en": "Alhamdu lillahilladhi ahyana ba'da ma amatana wa ilayhin-nushur", "hi": "अल्हम्दु लिल्लाहिल्लज़ी अहयाना ब-द मा अमातना व इलैहिन-नुशूर", "ur": "الحمد للہ الذی احیانا بعد ما اماتنا والیہ النشور" },
+      "meaning": { "bn": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাদের মৃত্যুর (ঘুমের) পর পুনরায় জীবিত করলেন এবং তাঁর দিকেই আমাদের ফিরে যেতে হবে।", "en": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.", "hi": "सारी तारीफें अल्लाह के लिए हैं, जिसने हमें नींद के बाद ज़िंदा किया और उसी की तरफ हमें लौटकर जाना है।", "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں نیند کے بعد زندہ کیا اور اسی کی طرف ہمیں لوٹ کر جانا ہے۔" },
       "reference": "Bukhari 6312"
     },
     {
       "id": "202",
       "categoryId": "2",
-      "title": { "bn": "ঘুমানোর দোয়া", "en": "Before Sleeping", "hi": "सोने की दुआ" },
+      "title": { "bn": "ঘুমানোর দোয়া", "en": "Before Sleeping", "hi": "सोने की दुआ", "ur": "سونے کی دعا" },
       "arabic": "اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
-      "pronunciation": { "bn": "আল্লাহুম্মা বিসমিকা আমুতু ওয়া আহইয়া", "en": "Allahumma bismika amutu wa ahya" },
-      "meaning": { "bn": "হে আল্লাহ! আপনার নামেই আমি মৃত্যুবরণ করি (ঘুমাই) এবং জীবিত হই (জাগি)।", "en": "O Allah, in Your name I die and I live." },
+      "pronunciation": { "bn": "আল্লাহুম্মা বিসমিকা আমুতু ওয়া আহইয়া", "en": "Allahumma bismika amutu wa ahya", "hi": "अल्लाहुम्मा बिस्मका अमूतु व अह्या", "ur": "اللھم باسمک اموت و احیا" },
+      "meaning": { "bn": "হে আল্লাহ! আপনার নামেই আমি মৃত্যুবরণ করি (ঘুমাই) এবং জীবিত হই (জাগি)।", "en": "O Allah, in Your name I die and I live.", "hi": "ऐ अल्लाह! तेरे ही नाम से मैं मरता हूँ और जीता हूँ।", "ur": "اے اللہ! تیرے ہی نام سے میں مرتا ہوں (سوتا ہوں) اور جیتا ہوں (جاگتا ہوں)۔" },
       "reference": "Bukhari 6312"
     },
     {
       "id": "501",
       "categoryId": "5",
-      "title": { "bn": "ঘর থেকে বের হওয়ার দোয়া", "en": "Leaving Home", "hi": "घर से निकलने की दुआ" },
+      "title": { "bn": "ঘর থেকে বের হওয়ার দোয়া", "en": "Leaving Home", "hi": "घर से निकलने की दुआ", "ur": "گھر سے نکلنے کی دعا" },
       "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
-      "pronunciation": { "bn": "বিসমিল্লাহি তাওয়াক্কালতু আলাল্লাহি লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ", "en": "Bismillahi tawakkaltu 'alallah, la hawla wala quwwata illa billah" },
-      "meaning": { "bn": "আল্লাহর নামে, আমি আল্লাহর ওপর ভরসা করলাম। আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই।", "en": "In the name of Allah, I place my trust in Allah. There is no might nor power except with Allah." },
+      "pronunciation": { "bn": "বিসমিল্লাহি তাওয়াক্কালতু আলাল্লাহি লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ", "en": "Bismillahi tawakkaltu 'alallah, la hawla wala quwwata illa billah", "hi": "बिस्मिल्लाह तवक्कलतु अलल्लाहि, ला हौल व ला कुव्वत इल्ला बिल्लाह", "ur": "بسم اللہ توکلت علی اللہ، لا حول ولا قوۃ الا باللہ" },
+      "meaning": { "bn": "আল্লাহর নামে, আমি আল্লাহর ওপর ভরসা করলাম। আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই।", "en": "In the name of Allah, I place my trust in Allah. There is no might nor power except with Allah.", "hi": "अल्लाह के नाम के साथ, मैंने अल्लाह पर भरोसा किया, अल्लाह की मदद के बिना न कोई ताकत है और न कोई कुव्वत।", "ur": "اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا، اللہ کی مدد کے بغیر نہ کوئی طاقت ہے اور نہ کوئی قوت۔" },
       "reference": "Abu Dawud 5095"
     },
     {
       "id": "502",
       "categoryId": "5",
-      "title": { "bn": "ঘরে প্রবেশের দোয়া", "en": "Entering Home", "hi": "घर में प्रवेश की दुआ" },
+      "title": { "bn": "ঘরে প্রবেশের দোয়া", "en": "Entering Home", "hi": "घर में प्रवेश की दुआ", "ur": "گھر میں داخل ہونے کی دعا" },
       "arabic": "بِسْمِ اللَّهِ وَلَجْنَا ، وَبِسْمِ اللَّهِ خَرَجْنَا ، وَعَلَى رَبِّنَا تَوَكَّلْنَا",
-      "pronunciation": { "bn": "বিসমিল্লাহি ওয়ালাজনা ওয়া বিসমিল্লাহি খারাজনা ওয়া আলা রব্বিনা তাওয়াক্কালনা", "en": "Bismillahi walajna, wa bismillahi kharajna, wa 'ala Rabbina tawakkalna" },
-      "meaning": { "bn": "আল্লাহর নামে আমরা প্রবেশ করছি, আল্লাহর নামেই আমরা বের হই এবং আমাদের প্রতিপালকের ওপর আমরা ভরসা করি।", "en": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we rely." },
+      "pronunciation": { "bn": "বিসমিল্লাহি ওয়ালাজনা ওয়া বিসমিল্লাহি খারাজনা ওয়া আলা রব্বিনা তাওয়াক্কালনা", "en": "Bismillahi walajna, wa bismillahi kharajna, wa 'ala Rabbina tawakkalna", "hi": "बिस्मिल्लाहि वलज्ना व बिस्मिल्लाहि खराज्ना व अला रब्बना तवक्कलना", "ur": "بسم اللہ ولجنا، و بسم اللہ خرجنا، و علی ربنا توکلنا" },
+      "meaning": { "bn": "আল্লাহর নামে আমরা প্রবেশ করছি, আল্লাহর নামেই আমরা বের হই এবং আমাদের প্রতিপালকের ওপর আমরা ভরসা করি।", "en": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we rely.", "hi": "अल्लाह के नाम से हम दाखिल हुए, अल्लाह के नाम से हम निकले और अपने रब पर हमने भरोसा किया।", "ur": "اللہ کے نام سے ہم داخل ہوئے، اللہ کے نام سے ہم نکلے اور اپنے رب پر ہم نے بھروسہ کیا۔" },
       "reference": "Abu Dawud 5096"
     },
     {
       "id": "401",
       "categoryId": "4",
-      "title": { "bn": "মসজিদে প্রবেশের দোয়া", "en": "Entering Mosque", "hi": "मस्जिद में जाने की दुआ" },
+      "title": { "bn": "মসজিদে প্রবেশের দোয়া", "en": "Entering Mosque", "hi": "मस्जिद में जाने की दुआ", "ur": "مسجد میں داخل ہونے کی دعا" },
       "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
-      "pronunciation": { "bn": "আল্লাহুম্মাফ তাহলী আবওয়াবা রাহমাতিকা", "en": "Allahummaftah li abwaba rahmatik" },
-      "meaning": { "bn": "হে আল্লাহ! আমার জন্য আপনার রহমতের দরজাগুলো খুলে দিন।", "en": "O Allah, open the gates of Your mercy for me." },
+      "pronunciation": { "bn": "আল্লাহুম্মাফ তাহলী আবওয়াবা রাহমাতিকা", "en": "Allahummaftah li abwaba rahmatik", "hi": "अल्लाहुम्मफ़ तह-ली अबवा-ब रहमतिक", "ur": "اللھم افتح لی ابواب رحمتک" },
+      "meaning": { "bn": "হে আল্লাহ! আমার জন্য আপনার রহমতের দরজাগুলো খুলে দিন।", "en": "O Allah, open the gates of Your mercy for me.", "hi": "ऐ अल्लाह! मेरे लिए अपनी रहमत के दरवाज़े खोल दे।", "ur": "اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔" },
       "reference": "Muslim 713"
     },
     {
       "id": "402",
       "categoryId": "4",
-      "title": { "bn": "মসজিদ থেকে বের হওয়ার দোয়া", "en": "Leaving Mosque", "hi": "मस्जिद से बाहर आने की दुआ" },
+      "title": { "bn": "মসজিদ থেকে বের হওয়ার দোয়া", "en": "Leaving Mosque", "hi": "मस्जिद से बाहर आने की दुआ", "ur": "مسجد سے نکلنے کی دعا" },
       "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
-      "pronunciation": { "bn": "আল্লাহুম্মা ইন্নী আসআলুকা মিন ফাদ্বলিকা", "en": "Allahumma inni as'aluka min fadlik" },
-      "meaning": { "bn": "হে আল্লাহ! আমি আপনার অনুগ্রহ প্রার্থনা করছি।", "en": "O Allah, I ask for Your favor." },
+      "pronunciation": { "bn": "আল্লাহুম্মা ইন্নী আসআলুকা মিন ফাদ্বলিকা", "en": "Allahumma inni as'aluka min fadlik", "hi": "अल्लाहुम्मा इन्नी अस-अलुका मिन फ़ज़्लिक", "ur": "اللھم انی اسئلک من فضلک" },
+      "meaning": { "bn": "হে আল্লাহ! আমি আপনার অনুগ্রহ প্রার্থনা করছি।", "en": "O Allah, I ask for Your favor.", "hi": "ऐ अल्लाह! मैं तुझसे तेरे फज़्ल का सवाल करता हूँ।", "ur": "اے اللہ! میں تجھ سے تیرے فضل کا سوال کرتا ہوں۔" },
       "reference": "Muslim 713"
     },
     {
       "id": "601",
       "categoryId": "6",
-      "title": { "bn": "টয়লেটে প্রবেশের দোয়া", "en": "Entering Toilet", "hi": "शौचालय में जाने की दुआ" },
+      "title": { "bn": "টয়লেটে প্রবেশের দোয়া", "en": "Entering Toilet", "hi": "शौचालय में जाने की दुआ", "ur": "بیت الخلاء میں داخل ہونے کی دعا" },
       "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
-      "pronunciation": { "bn": "আল্লাহুম্মা ইন্নী আউযু বিকা মিনাল খুবুসি ওয়াল খাবায়িস", "en": "Allahumma inni a'udhu bika minal-khubuthi wal-khaba'ith" },
-      "meaning": { "bn": "হে আল্লাহ! আমি আপনার কাছে অপবিত্র জিন ও জিনানীদের অনিষ্ট থেকে আশ্রয় চাই।", "en": "O Allah, I seek refuge with You from all offensive and wicked things." },
+      "pronunciation": { "bn": "আল্লাহুম্মা ইন্নী আউযু বিকা মিনাল খুবুসি ওয়াল খাবায়িস", "en": "Allahumma inni a'udhu bika minal-khubuthi wal-khaba'ith", "hi": "अल्लाहुम्मा इन्नी अऊज़ु बिका मिनल खुबुसि वल-खबाइस", "ur": "اللھم انی اعوذبک من الخبث والخبائث" },
+      "meaning": { "bn": "হে আল্লাহ! আমি আপনার কাছে অপবিত্র জিন ও জিনানীদের অনিষ্ট থেকে আশ্রয় চাই।", "en": "O Allah, I seek refuge with You from all offensive and wicked things.", "hi": "ऐ अल्लाह! मैं तेरी पनाह चाहता हूँ हर गंदी और नापाक चीज़ों से।", "ur": "اے اللہ! میں تیری پناہ چاہتا ہوں ہر گندی اور ناپاک چیزوں سے۔" },
       "reference": "Bukhari 142"
     },
     {
       "id": "602",
       "categoryId": "6",
-      "title": { "bn": "টয়লেট থেকে বের হওয়ার দোয়া", "en": "Leaving Toilet", "hi": "शौचालय से बाहर आने की दुआ" },
+      "title": { "bn": "টয়লেট থেকে বের হওয়ার দোয়া", "en": "Leaving Toilet", "hi": "शौचालय से बाहर आने की दुआ", "ur": "بیت الخلاء سے نکلنے کی دعا" },
       "arabic": "غُفْرَانَكَ",
-      "pronunciation": { "bn": "গুফরা নাকা", "en": "Ghufranak" },
-      "meaning": { "bn": "আমি আপনার ক্ষমা প্রার্থনা করছি।", "en": "I ask for Your forgiveness." },
+      "pronunciation": { "bn": "গুফরা নাকা", "en": "Ghufranak", "hi": "गुफ़रानक", "ur": "غفرانک" },
+      "meaning": { "bn": "আমি আপনার ক্ষমা প্রার্থনা করছি।", "en": "I ask for Your forgiveness.", "hi": "मैं तेरी मग़फ़िरत चाहता हूँ।", "ur": "میں تیری مغفرت چاہتا ہوں۔" },
       "reference": "Abu Dawud 30"
     },
     {
       "id": "301",
       "categoryId": "3",
-      "title": { "bn": "খাবার শুরুর দোয়া", "en": "Before Eating", "hi": "खाने से पहले की दुआ" },
+      "title": { "bn": "খাবার শুরুর দোয়া", "en": "Before Eating", "hi": "खाने से पहले की दुआ", "ur": "کھانے سے پہلے کی دعا" },
       "arabic": "بِسْمِ اللَّهِ",
-      "pronunciation": { "bn": "বিসমিল্লাহ", "en": "Bismillah" },
-      "meaning": { "bn": "আল্লাহর নামে শুরু করছি।", "en": "In the name of Allah." },
+      "pronunciation": { "bn": "বিসমিল্লাহ", "en": "Bismillah", "hi": "बिस्मिल्लाह", "ur": "بسم اللہ" },
+      "meaning": { "bn": "আল্লাহর নামে শুরু করছি।", "en": "In the name of Allah.", "hi": "अल्लाह के नाम से शुरू करता हूँ।", "ur": "اللہ کے نام سے شروع کرتا ہوں۔" },
       "reference": "Abu Dawud 3767"
     },
     {
       "id": "302",
       "categoryId": "3",
-      "title": { "bn": "খাবার শেষ করার দোয়া", "en": "After Eating", "hi": "खाने के बाद की दुआ" },
+      "title": { "bn": "খাবার শেষ করার দোয়া", "en": "After Eating", "hi": "खाने के बाद की दुआ", "ur": "کھانے کے بعد کی دعا" },
       "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
-      "pronunciation": { "bn": "আলহামদু লিল্লাহিল্লাযী আত'আমানা ওয়া সাকানা ওয়া জা'আলানা মুসলিমীন", "en": "Alhamdu lillahilladhi at'amana wa saqana wa ja'alana muslimin" },
-      "meaning": { "bn": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাদের খাওয়ালেন, পান করালেন এবং মুসলিম বানালেন।", "en": "Praise be to Allah Who has fed us and given us drink and made us Muslims." },
+      "pronunciation": { "bn": "আলহামদু লিল্লাহিল্লাযী আত'আমানা ওয়া সাকানা ওয়া জা'আলানা মুসলিমীন", "en": "Alhamdu lillahilladhi at'amana wa saqana wa ja'alana muslimin", "hi": "अल्हम्दु लिल्लाहिल्लज़ी अत-अमना व सकाना व ज-अलना मुस्लिमीन", "ur": "الحمد للہ الذی اطعمنا و سقانا و جعلنا مسلمین" },
+      "meaning": { "bn": "সকল প্রশংসা আল্লাহর জন্য, যিনি আমাদের খাওয়ালেন, পান করালেন এবং মুসলিম বানালেন।", "en": "Praise be to Allah Who has fed us and given us drink and made us Muslims.", "hi": "तमाम तारीफें अल्लाह के लिए हैं जिसने हमें खिलाया और पिलाया और हमें मुसलमान बनाया।", "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں کھلایا اور پلایا اور مسلمان بنایا۔" },
       "reference": "Abu Dawud 3850"
-    },
-    {
-      "id": "801",
-      "categoryId": "8",
-      "title": { "bn": "বিপদের দোয়া (ইউনুস আ.)", "en": "Dua in Hardship", "hi": "मुसीबत की दुआ" },
-      "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
-      "pronunciation": { "bn": "লা ইলাহা ইল্লা আনতা সুবহানাকা ইন্নী কুনতু মিনায যোয়লিমীন", "en": "La ilaha illa Anta subhanaka inni kuntu minadh-dhalimin" },
-      "meaning": { "bn": "আপনি ছাড়া আর কোনো উপাস্য নেই, আপনি অতি পবিত্র। নিশ্চয়ই আমি অপরাধীদের অন্তর্ভুক্ত।", "en": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers." },
-      "reference": "Quran 21:87"
-    },
-    {
-      "id": "701",
-      "categoryId": "7",
-      "title": { "bn": "যানবাহনে চড়ার দোয়া", "en": "Mounting a Vehicle", "hi": "सवारी पर चढ़ने की दुआ" },
-      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
-      "pronunciation": { "bn": "সুবহানাল্লাযী সাখখারা লানা হাযা ওয়ামা কুন্না লাহু মুকরিনীন, ওয়া ইন্না ইলা রব্বিনা লামুনক্বালিবুন", "en": "Subhanalladhi sakhkhara lana hadha wa ma kunna lahu muqrinin, wa inna ila Rabbina lamunqalibun" },
-      "meaning": { "bn": "পবিত্র সেই সত্তা, যিনি এগুলোকে আমাদের বশীভূত করে দিয়েছেন, অথচ আমরা এগুলোকে বশ করতে সক্ষম ছিলাম না। নিশ্চয়ই আমরা আমাদের প্রতিপালকের দিকে ফিরে যাব।", "en": "Glory be to Him Who has brought this under our control whereas we were unable to do so ourselves. And indeed, to our Lord we shall surely return." },
-      "reference": "Quran 43:13"
-    },
-    {
-      "id": "1001",
-      "categoryId": "10",
-      "title": { "bn": "বৃষ্টির সময় দোয়া", "en": "When it rains", "hi": "बारिश की दुआ" },
-      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
-      "pronunciation": { "bn": "আল্লাহুম্মা সইয়িবান নাফিআ", "en": "Allahumma sayyiban nafi'a" },
-      "meaning": { "bn": "হে আল্লাহ! উপকারী বৃষ্টি বর্ষণ করুন।", "en": "O Allah, may it be a beneficial rain." },
-      "reference": "Bukhari 1032"
-    },
-    {
-      "id": "901",
-      "categoryId": "9",
-      "title": { "bn": "হাচি দেওয়ার পর দোয়া", "en": "After Sneezing", "hi": "छींकने के बाद की दुआ" },
-      "arabic": "الْحَمْدُ لِلَّهِ",
-      "pronunciation": { "bn": "আলহামদুলিল্লাহ", "en": "Alhamdulillah" },
-      "meaning": { "bn": "সকল প্রশংসা আল্লাহর জন্য।", "en": "All praise is for Allah." },
-      "reference": "Bukhari 6224"
     }
   ]
 }
