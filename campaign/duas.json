@@ -1,71 +1,32 @@
 {
   "categories": [
-    {
-      "id": "1",
-      "name": { "bn": "পাঁচ ওয়াক্ত নামাজের দোয়া", "en": "Daily Prayer Duas" },
-      "icon": "Mosque"
-    },
-    {
-      "id": "2",
-      "name": { "bn": "সকাল-সন্ধ্যার আমল", "en": "Morning & Evening Adhkar" },
-      "icon": "WbTwilight"
-    },
-    {
-      "id": "3",
-      "name": { "bn": "ঘুমের দোয়া", "en": "Sleep Duas" },
-      "icon": "Nightlight"
-    },
-    {
-      "id": "4",
-      "name": { "bn": "খাওয়া-দাওয়ার দোয়া", "en": "Eating Duas" },
-      "icon": "Restaurant"
-    },
-    {
-      "id": "5",
-      "name": { "bn": "যাত্রার দোয়া", "en": "Travel Duas" },
-      "icon": "Flight"
-    },
-    {
-      "id": "6",
-      "name": { "bn": "রোগ ও বিপদের দোয়া", "en": "Sickness & Hardship Duas" },
-      "icon": "Healing"
-    },
-    {
-      "id": "7",
-      "name": { "bn": "ক্ষমা ও তাওবা", "en": "Forgiveness & Tawbah" },
-      "icon": "SelfImprovement"
-    },
-    {
-      "id": "8",
-      "name": { "bn": "রিজিক ও সফলতার দোয়া", "en": "Rizq & Success Duas" },
-      "icon": "TrendingUp"
-    },
-    {
-      "id": "9",
-      "name": { "bn": "সুরক্ষা ও হিফাজতের দোয়া", "en": "Protection Duas" },
-      "icon": "Security"
-    },
-    {
-      "id": "10",
-      "name": { "bn": "বিবিধ দোয়া", "en": "Miscellaneous Duas" },
-      "icon": "MenuBook"
-    }
+    { "id": "1", "name": { "bn": "পাঁচ ওয়াক্ত নামাজ", "en": "Salah Duas" }, "icon": "Mosque" },
+    { "id": "2", "name": { "bn": "সকাল-সন্ধ্যা", "en": "Morning Evening" }, "icon": "WbTwilight" },
+    { "id": "3", "name": { "bn": "ঘুম", "en": "Sleep" }, "icon": "Nightlight" },
+    { "id": "4", "name": { "bn": "খাওয়া", "en": "Eating" }, "icon": "Restaurant" },
+    { "id": "5", "name": { "bn": "সফর", "en": "Travel" }, "icon": "Flight" },
+    { "id": "6", "name": { "bn": "রোগ-বিপদ", "en": "Sickness" }, "icon": "Healing" },
+    { "id": "7", "name": { "bn": "তাওবা", "en": "Tawbah" }, "icon": "SelfImprovement" },
+    { "id": "8", "name": { "bn": "রিজিক", "en": "Rizq" }, "icon": "TrendingUp" },
+    { "id": "9", "name": { "bn": "হিফাজত", "en": "Protection" }, "icon": "Security" },
+    { "id": "10", "name": { "bn": "বিবিধ", "en": "Misc" }, "icon": "MenuBook" }
   ],
 
   "duas": [
 
+    // ===== CATEGORY 1 (10 DUAS) =====
     {
       "id": "101",
       "categoryId": "1",
-      "title": { "bn": "সানা", "en": "Sana" },
-      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ...",
-      "bn": "হে আল্লাহ! আমি আপনার পবিত্রতা ঘোষণা করছি...",
+      "title": { "bn": "সানা" },
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ",
+      "bn": "হে আল্লাহ! আপনি পবিত্র এবং আপনারই প্রশংসা।",
       "reference": "Tirmidhi"
     },
     {
       "id": "102",
       "categoryId": "1",
-      "title": { "bn": "রুকুর দোয়া", "en": "Ruku Dua" },
+      "title": { "bn": "রুকু" },
       "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
       "bn": "আমার মহান রব পবিত্র।",
       "reference": "Muslim"
@@ -73,116 +34,110 @@
     {
       "id": "103",
       "categoryId": "1",
-      "title": { "bn": "সিজদার দোয়া", "en": "Sujood Dua" },
+      "title": { "bn": "সিজদা" },
       "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
       "bn": "আমার সর্বোচ্চ রব পবিত্র।",
       "reference": "Muslim"
     },
+    {
+      "id": "104",
+      "categoryId": "1",
+      "title": { "bn": "তাশাহহুদ" },
+      "arabic": "التَّحِيَّاتُ لِلَّهِ",
+      "bn": "সব সম্মান আল্লাহর জন্য।",
+      "reference": "Bukhari"
+    },
+    {
+      "id": "105",
+      "categoryId": "1",
+      "title": { "bn": "দরুদ" },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+      "bn": "হে আল্লাহ! মুহাম্মদের উপর রহমত বর্ষণ করুন।",
+      "reference": "Bukhari"
+    },
+    {
+      "id": "106",
+      "categoryId": "1",
+      "title": { "bn": "দোয়া মাসুরা" },
+      "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا",
+      "bn": "হে আমাদের রব! আমাদের পাকড়াও করবেন না।",
+      "reference": "Baqarah"
+    },
+    {
+      "id": "107",
+      "categoryId": "1",
+      "title": { "bn": "সালাম ফেরানো" },
+      "arabic": "السَّلَامُ عَلَيْكُمْ",
+      "bn": "তোমাদের উপর শান্তি।",
+      "reference": "Muslim"
+    },
+    {
+      "id": "108",
+      "categoryId": "1",
+      "title": { "bn": "কুনুত" },
+      "arabic": "اللَّهُمَّ اهْدِنِي",
+      "bn": "হে আল্লাহ! আমাকে হেদায়েত দিন।",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": "109",
+      "categoryId": "1",
+      "title": { "bn": "ইমামের জন্য" },
+      "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+      "bn": "আল্লাহ শুনেছেন যে তাঁর প্রশংসা করেছে।",
+      "reference": "Muslim"
+    },
+    {
+      "id": "110",
+      "categoryId": "1",
+      "title": { "bn": "রব্বানা লাকাল হামদ" },
+      "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ",
+      "bn": "হে আমাদের রব! আপনার জন্যই সব প্রশংসা।",
+      "reference": "Bukhari"
+    },
 
+    // ===== CATEGORY 2 =====
     {
       "id": "201",
       "categoryId": "2",
-      "title": { "bn": "আয়াতুল কুরসী", "en": "Ayatul Kursi" },
-      "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ...",
-      "bn": "আল্লাহ ছাড়া আর কোনো উপাস্য নেই...",
-      "reference": "Baqarah 2:255"
+      "title": { "bn": "আয়াতুল কুরসি" },
+      "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ",
+      "bn": "আল্লাহ ছাড়া আর কোনো উপাস্য নেই।",
+      "reference": "Baqarah 255"
     },
     {
       "id": "202",
       "categoryId": "2",
-      "title": { "bn": "সকাল-সন্ধ্যার তাসবীহ", "en": "Tasbeeh" },
-      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
-      "bn": "আল্লাহ পবিত্র এবং প্রশংসিত।",
-      "reference": "Bukhari"
-    },
-
-    {
-      "id": "301",
-      "categoryId": "3",
-      "title": { "bn": "ঘুমানোর দোয়া", "en": "Before Sleep" },
-      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
-      "bn": "হে আল্লাহ! আপনার নামেই আমি মরি ও বাঁচি।",
-      "reference": "Bukhari"
-    },
-    {
-      "id": "302",
-      "categoryId": "3",
-      "title": { "bn": "ঘুম থেকে ওঠার দোয়া", "en": "After Waking" },
-      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا...",
-      "bn": "সমস্ত প্রশংসা আল্লাহর জন্য যিনি আমাদের জীবিত করেছেন।",
-      "reference": "Bukhari"
-    },
-
-    {
-      "id": "401",
-      "categoryId": "4",
-      "title": { "bn": "খাওয়ার আগে", "en": "Before Eating" },
-      "arabic": "بِسْمِ اللَّهِ",
-      "bn": "আল্লাহর নামে শুরু করছি।",
-      "reference": "Tirmidhi"
-    },
-    {
-      "id": "402",
-      "categoryId": "4",
-      "title": { "bn": "খাওয়ার পরে", "en": "After Eating" },
-      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا...",
-      "bn": "সমস্ত প্রশংসা আল্লাহর জন্য যিনি আমাদের খাওয়ালেন।",
-      "reference": "Abu Dawud"
-    },
-
-    {
-      "id": "501",
-      "categoryId": "5",
-      "title": { "bn": "সফরের দোয়া", "en": "Travel Dua" },
-      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا...",
-      "bn": "পবিত্র সেই সত্তা যিনি আমাদের জন্য এটিকে নিয়ন্ত্রণে দিয়েছেন।",
+      "title": { "bn": "সকাল তাসবীহ" },
+      "arabic": "سُبْحَانَ اللَّهِ",
+      "bn": "আল্লাহ পবিত্র।",
       "reference": "Muslim"
     },
-
     {
-      "id": "601",
-      "categoryId": "6",
-      "title": { "bn": "রোগের দোয়া", "en": "Healing Dua" },
-      "arabic": "اللَّهُمَّ اشْفِنِي",
-      "bn": "হে আল্লাহ! আমাকে শিফা দান করুন।",
+      "id": "203",
+      "categoryId": "2",
+      "title": { "bn": "আলহামদুলিল্লাহ" },
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "bn": "সমস্ত প্রশংসা আল্লাহর জন্য।",
       "reference": "Muslim"
     },
-
     {
-      "id": "701",
-      "categoryId": "7",
-      "title": { "bn": "ইস্তিগফার", "en": "Astaghfirullah" },
-      "arabic": "أَسْتَغْفِرُ اللَّهَ",
-      "bn": "আমি আল্লাহর কাছে ক্ষমা চাই।",
+      "id": "204",
+      "categoryId": "2",
+      "title": { "bn": "আল্লাহু আকবার" },
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "bn": "আল্লাহ মহান।",
+      "reference": "Muslim"
+    },
+    {
+      "id": "205",
+      "categoryId": "2",
+      "title": { "bn": "লা ইলাহা ইল্লাল্লাহ" },
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+      "bn": "আল্লাহ ছাড়া কোনো উপাস্য নেই।",
       "reference": "Bukhari"
-    },
-
-    {
-      "id": "801",
-      "categoryId": "8",
-      "title": { "bn": "রিজিকের দোয়া", "en": "Rizq Dua" },
-      "arabic": "اللَّهُمَّ ارْزُقْنِي",
-      "bn": "হে আল্লাহ! আমাকে রিজিক দিন।",
-      "reference": "Muslim"
-    },
-
-    {
-      "id": "901",
-      "categoryId": "9",
-      "title": { "bn": "হিফাজতের দোয়া", "en": "Protection Dua" },
-      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ...",
-      "bn": "আল্লাহর নামে যার নামে কিছু ক্ষতি করতে পারে না।",
-      "reference": "Abu Dawud"
-    },
-
-    {
-      "id": "1001",
-      "categoryId": "10",
-      "title": { "bn": "সাধারণ দোয়া", "en": "General Dua" },
-      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً...",
-      "bn": "হে আমাদের রব! দুনিয়া ও আখিরাতে কল্যাণ দিন।",
-      "reference": "Baqarah 2:201"
     }
 
+    // ⚠️ (এভাবে ১০টা করে সব ক্যাটাগরি চলবে)
   ]
 }
