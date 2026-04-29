@@ -1,143 +1,87 @@
 {
+  "campaignId": 5,
   "categories": [
-    { "id": "1", "name": { "bn": "পাঁচ ওয়াক্ত নামাজ", "en": "Salah Duas" }, "icon": "Mosque" },
-    { "id": "2", "name": { "bn": "সকাল-সন্ধ্যা", "en": "Morning Evening" }, "icon": "WbTwilight" },
-    { "id": "3", "name": { "bn": "ঘুম", "en": "Sleep" }, "icon": "Nightlight" },
-    { "id": "4", "name": { "bn": "খাওয়া", "en": "Eating" }, "icon": "Restaurant" },
-    { "id": "5", "name": { "bn": "সফর", "en": "Travel" }, "icon": "Flight" },
-    { "id": "6", "name": { "bn": "রোগ-বিপদ", "en": "Sickness" }, "icon": "Healing" },
-    { "id": "7", "name": { "bn": "তাওবা", "en": "Tawbah" }, "icon": "SelfImprovement" },
-    { "id": "8", "name": { "bn": "রিজিক", "en": "Rizq" }, "icon": "TrendingUp" },
-    { "id": "9", "name": { "bn": "হিফাজত", "en": "Protection" }, "icon": "Security" },
-    { "id": "10", "name": { "bn": "বিবিধ", "en": "Misc" }, "icon": "MenuBook" }
+    {
+      "id": "1",
+      "name": {
+        "bn": "পাঁচ ওয়াক্ত নামাজের দোয়া",
+        "en": "Daily Prayer Duas",
+        "hi": "नमाज़ की दुआएं",
+        "ur": "نماز کی دعائیں"
+      },
+      "icon": "Mosque"
+    },
+    {
+      "id": "2",
+      "name": {
+        "bn": "সকাল-সন্ধ্যার আমল",
+        "en": "Morning & Evening Adhkar",
+        "hi": "सुबह-शाम के अज़कार",
+        "ur": "صبح و شام کے اذکار"
+      },
+      "icon": "WbTwilight"
+    }
   ],
-
   "duas": [
-
-    // ===== CATEGORY 1 (10 DUAS) =====
     {
       "id": "101",
       "categoryId": "1",
-      "title": { "bn": "সানা" },
-      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ",
-      "bn": "হে আল্লাহ! আপনি পবিত্র এবং আপনারই প্রশংসা।",
-      "reference": "Tirmidhi"
+      "title": {
+        "bn": "সানা (নামাজ শুরু করার দোয়া)",
+        "en": "Sana (Opening Supplication)",
+        "hi": "सना (नमाज़ शुरू करने की दुआ)",
+        "ur": "ثنا"
+      },
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ ، وَتَبَارَكَ اسْمُكَ ، وَتَعَالَى جَدُّكَ ، وَلَا إِلَهَ غَيْرُكَ",
+      "pronunciation": {
+        "bn": "সুবহানাকা আল্লাহুম্মা ওয়া বিহামদিকা, ওয়া তাবারাকাসমুকা ওয়া তা'আলা জাদ্দুকা, ওয়া লা ইলাহা গাইরুকা।",
+        "en": "Subhanaka Allahumma wa bihamdika, wa tabarakasmuka wa ta'ala jadduka, wa la ilaha ghayruka.",
+        "hi": "सुब्हानका अल्लाहुम्मा व बिहम्दिका, व तबा-रकस्मुका व त-आला जद्दुका, व ला इला-ह गैरुका।",
+        "ur": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ ، وَتَبَارَكَ اسْمُكَ ، وَتَعَالَى جَدُّكَ ، وَلَا إِلَهَ غَيْرُكَ"
+      },
+      "meaning": {
+        "bn": "হে আল্লাহ! আমি আপনার পবিত্রতা ঘোষণা করছি এবং আপনার প্রশংসা করছি। আপনার নাম বরকতময়, আপনার মাহাত্ম্য সর্বোচ্চ এবং আপনি ছাড়া আর কোনো উপাস্য নেই।",
+        "en": "Glory be to You, O Allah, and all praise is Yours. Blessed is Your name, exalted is Your majesty, and there is no deity worthy of worship except You.",
+        "hi": "ऐ अल्लाह! मैं तेरी पाकी बयान करता हूँ और तेरी तारीफ करता हूँ। तेरा नाम बरकत वाला है, तेरी शान ऊँची है और तेरे सिवा कोई इबादत के लायक नहीं।",
+        "ur": "اے اللہ! میں تیری پاکی بیان کرتا ہوں اور تیری تعریف کرتا ہوں۔ تیرا نام برکت والا ہے، تیری شان بلند ہے اور تیرے سوا کوئی معبود نہیں۔"
+      },
+      "reference": "Abu Dawud 775"
     },
     {
       "id": "102",
       "categoryId": "1",
-      "title": { "bn": "রুকু" },
+      "title": {
+        "bn": "রুকুর তাসবীহ",
+        "en": "Tasbih of Ruku"
+      },
       "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
-      "bn": "আমার মহান রব পবিত্র।",
-      "reference": "Muslim"
+      "pronunciation": {
+        "bn": "সুবহানা রাব্বিয়াল আযীম",
+        "en": "Subhana Rabbiyal Azeem"
+      },
+      "meaning": {
+        "bn": "আমার মহান রবের পবিত্রতা ঘোষণা করছি।",
+        "en": "Glory be to my Lord, the Almighty."
+      },
+      "reference": "Muslim 772"
     },
-    {
-      "id": "103",
-      "categoryId": "1",
-      "title": { "bn": "সিজদা" },
-      "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
-      "bn": "আমার সর্বোচ্চ রব পবিত্র।",
-      "reference": "Muslim"
-    },
-    {
-      "id": "104",
-      "categoryId": "1",
-      "title": { "bn": "তাশাহহুদ" },
-      "arabic": "التَّحِيَّاتُ لِلَّهِ",
-      "bn": "সব সম্মান আল্লাহর জন্য।",
-      "reference": "Bukhari"
-    },
-    {
-      "id": "105",
-      "categoryId": "1",
-      "title": { "bn": "দরুদ" },
-      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
-      "bn": "হে আল্লাহ! মুহাম্মদের উপর রহমত বর্ষণ করুন।",
-      "reference": "Bukhari"
-    },
-    {
-      "id": "106",
-      "categoryId": "1",
-      "title": { "bn": "দোয়া মাসুরা" },
-      "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا",
-      "bn": "হে আমাদের রব! আমাদের পাকড়াও করবেন না।",
-      "reference": "Baqarah"
-    },
-    {
-      "id": "107",
-      "categoryId": "1",
-      "title": { "bn": "সালাম ফেরানো" },
-      "arabic": "السَّلَامُ عَلَيْكُمْ",
-      "bn": "তোমাদের উপর শান্তি।",
-      "reference": "Muslim"
-    },
-    {
-      "id": "108",
-      "categoryId": "1",
-      "title": { "bn": "কুনুত" },
-      "arabic": "اللَّهُمَّ اهْدِنِي",
-      "bn": "হে আল্লাহ! আমাকে হেদায়েত দিন।",
-      "reference": "Abu Dawud"
-    },
-    {
-      "id": "109",
-      "categoryId": "1",
-      "title": { "bn": "ইমামের জন্য" },
-      "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
-      "bn": "আল্লাহ শুনেছেন যে তাঁর প্রশংসা করেছে।",
-      "reference": "Muslim"
-    },
-    {
-      "id": "110",
-      "categoryId": "1",
-      "title": { "bn": "রব্বানা লাকাল হামদ" },
-      "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ",
-      "bn": "হে আমাদের রব! আপনার জন্যই সব প্রশংসা।",
-      "reference": "Bukhari"
-    },
-
-    // ===== CATEGORY 2 =====
     {
       "id": "201",
       "categoryId": "2",
-      "title": { "bn": "আয়াতুল কুরসি" },
-      "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ",
-      "bn": "আল্লাহ ছাড়া আর কোনো উপাস্য নেই।",
-      "reference": "Baqarah 255"
-    },
-    {
-      "id": "202",
-      "categoryId": "2",
-      "title": { "bn": "সকাল তাসবীহ" },
-      "arabic": "سُبْحَانَ اللَّهِ",
-      "bn": "আল্লাহ পবিত্র।",
-      "reference": "Muslim"
-    },
-    {
-      "id": "203",
-      "categoryId": "2",
-      "title": { "bn": "আলহামদুলিল্লাহ" },
-      "arabic": "الْحَمْدُ لِلَّهِ",
-      "bn": "সমস্ত প্রশংসা আল্লাহর জন্য।",
-      "reference": "Muslim"
-    },
-    {
-      "id": "204",
-      "categoryId": "2",
-      "title": { "bn": "আল্লাহু আকবার" },
-      "arabic": "اللَّهُ أَكْبَرُ",
-      "bn": "আল্লাহ মহান।",
-      "reference": "Muslim"
-    },
-    {
-      "id": "205",
-      "categoryId": "2",
-      "title": { "bn": "লা ইলাহা ইল্লাল্লাহ" },
-      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
-      "bn": "আল্লাহ ছাড়া কোনো উপাস্য নেই।",
-      "reference": "Bukhari"
+      "title": {
+        "bn": "আয়াতুল কুরসী",
+        "en": "Ayatul Kursi"
+      },
+      "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ...",
+      "pronunciation": {
+        "bn": "আল্লাহু লা ইলাহা ইল্লা হুয়াল হাইয়্যুল কাইয়্যুম...",
+        "en": "Allahu la ilaha illa huwal hayyul qayyum..."
+      },
+      "meaning": {
+        "bn": "আল্লাহ ছাড়া আর কোনো উপাস্য নেই। তিনি চিরঞ্জীব, সবকিছুর ধারক...",
+        "en": "Allah! There is no god but He, the Living, the Self-subsisting..."
+      },
+      "reference": "Baqarah 2:255"
     }
-
-    // ⚠️ (এভাবে ১০টা করে সব ক্যাটাগরি চলবে)
   ]
 }
