@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "min_app_version": 40,
+  "min_app_version": 41,
   "app_settings": {
     "reels_label": "Reels",
     "show_profile": true,
@@ -16,6 +16,41 @@
     "description": "শিশুদের জন্য নিরাপদ ও আনন্দময় শিক্ষামূলক ভিডিও এখানে পাওয়া যাবে। প্রতিটি ভিডিও অ্যাডমিন দ্বারা যাচাইকৃত এবং শিশুবান্ধব। অভিভাবক চাইলে সেটিংস থেকে এই ফিচারটি নিয়ন্ত্রণ করতে পারবেন। যেকোনো পরামর্শের জন্য আমাদের ফিডব্যাক দিন।"
   },
   "videos": [
+    {
+      "id": 31,
+      "title": "🌿 ধীরে খাই, ভালো করে চিবিয়ে খাই—সুস্থ থাকি।",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/video/khabar.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/image/khabar.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 30,
+      "title": "🌿 সকালের প্রতিজ্ঞা",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/video/sokal.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/image/sokal.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 29,
+      "title": "থ্যাংক ইউ: খুশির চাবিকাঠি",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/video/thanku.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/image/thanku.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 28,
+      "title": "🧹 স্বচ্ছ পরিবেশ, সুস্থ জীবন",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/video/moyla.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/image/moyla.jpg",
+      "like_count": 0
+    },
+    {
+      "id": 27,
+      "title": "🐶 চলো পশুদের চিনে নেই",
+      "video_url": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/video/thistiger.mp4",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/mintumostafa/Mintu@main/reels/image/thistiger.jpg",
+      "like_count": 0
+    },
     {
       "id": 26,
       "title": "চোখ বাঁচাও, খেলতে যাও 👀",
