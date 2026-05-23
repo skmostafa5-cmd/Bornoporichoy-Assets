@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "campaign_id": 124,
+  "campaign_id": 125,
   "start_date": "2024-01-01",
   "end_date": "2026-05-25",
   "title": "উৎসব ও শিক্ষা গ্যালারি",
@@ -9,7 +9,7 @@
   "banners": [
     {
       "image_url": "https://raw.githubusercontent.com/mintumostafa/Mintu/main/gallery-event/lacky-drw/primium.png",
-      "title": "🎉 1K Downloads Lucky Winner 🎁",
+      "title": "",
       "action": "gallery_update"
     },
     {
