@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "titles": { "bn": "📚 নবীগণ", "en": "Prophets", "hi": "पैगंबर", "ur": "انبیاء", "ar": "الأنبياء" },
+    "iconName": "AutoStories"
+  },
+  {
+    "id": "2",
+    "titles": { "bn": "🤝 সাহাবীগণ", "en": "Companions", "hi": "सहाबा", "ur": "صحابہ", "ar": "الصحابة" },
+    "iconName": "Group"
+  },
+  {
+    "id": "3",
+    "titles": { "bn": "👩 নারী সাহাবী", "en": "Female Companions", "hi": "महिला सहाबा", "ur": "خواتین صحابہ", "ar": "الصحابيات" },
+    "iconName": "Public"
+  },
+  {
+    "id": "4",
+    "titles": { "bn": "📖 কুরআনের ঘটনা", "en": "Quranic Events", "hi": "कुरान की घटनाएं", "ur": "قرآنی واقعات", "ar": "قصص القرآن" },
+    "iconName": "MenuBook"
+  },
+  {
+    "id": "5",
+    "titles": { "bn": "🕌 ইসলামিক ইতিহাস", "en": "Islamic History", "hi": "इस्लामी इतिहास", "ur": "اسلامی تاریخ", "ar": "التاريخ الإسلامي" },
+    "iconName": "HistoryEdu"
+  }
+]
