@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cat5_story1",
+    "categoryId": "5",
+    "titles": { "bn": "কাবা শরীফ নির্মাণ", "en": "Construction of the Kaaba", "hi": "काबा का निर्माण", "ur": "خانہ کعبہ کی تعمیر", "ar": "بناء الكعبة" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story2",
+    "categoryId": "5",
+    "titles": { "bn": "মহানবী হযরত মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের জন্ম", "en": "Birth of Prophet Muhammad (PBUH)", "hi": "पैगंबर मुहम्मद (ﷺ) का जन्म", "ur": "رسول اللہ صلی اللہ علیہ وسلم کی ولادت", "ar": "مولد النبي محمد صلى الله عليه وسلم" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story3",
+    "categoryId": "5",
+    "titles": { "bn": "প্রথম ওহি নাজিল", "en": "The First Revelation", "hi": "पहली वह़्य", "ur": "پہلی وحی", "ar": "نزول أول الوحي" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story4",
+    "categoryId": "5",
+    "titles": { "bn": "হিজরত মদিনায়", "en": "Migration to Madinah", "hi": "मदीना की हिजरत", "ur": "ہجرت مدینہ", "ar": "الهجرة إلى المدينة" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story5",
+    "categoryId": "5",
+    "titles": { "bn": "বদরের যুদ্ধ", "en": "Battle of Badr", "hi": "बद्र का युद्ध", "ur": "غزوۂ بدر", "ar": "غزوة بدر" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story6",
+    "categoryId": "5",
+    "titles": { "bn": "উহুদের যুদ্ধ", "en": "Battle of Uhud", "hi": "उहुद का युद्ध", "ur": "غزوۂ احد", "ar": "غزوة أحد" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story7",
+    "categoryId": "5",
+    "titles": { "bn": "খন্দকের যুদ্ধ", "en": "Battle of the Trench", "hi": "खंदक का युद्ध", "ur": "غزوۂ خندق", "ar": "غزوة الخندق" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story8",
+    "categoryId": "5",
+    "titles": { "bn": "মক্কা বিজয়", "en": "Conquest of Makkah", "hi": "मक्का विजय", "ur": "فتح مکہ", "ar": "فتح مكة" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story9",
+    "categoryId": "5",
+    "titles": { "bn": "বিদায় হজ্জ", "en": "The Farewell Pilgrimage", "hi": "विदाई हज", "ur": "حجۃ الوداع", "ar": "حجة الوداع" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  },
+  {
+    "id": "cat5_story10",
+    "categoryId": "5",
+    "titles": { "bn": "খুলাফায়ে রাশেদীন যুগ", "en": "The Era of the Rightly Guided Caliphs", "hi": "खुलफ़ाए राशिदीन का दौर", "ur": "خلفائے راشدین کا دور", "ar": "عصر الخلفاء الراشدين" },
+    "contents": { "bn": "", "en": "", "hi": "", "ur": "", "ar": "" }
+  }
+]
